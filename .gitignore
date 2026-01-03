@@ -17,3 +17,7 @@ build
 
 # 语言模型文件
 *.gram
+
+Rime配置助手.command
+rime-mate-config/version
+rime-mate-config/rime-mate

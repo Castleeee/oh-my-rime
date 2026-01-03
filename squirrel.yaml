@@ -33,6 +33,7 @@ style:
   
   # 自 0.36(Squirrel 0.15) 起已弃用。覆写为横向，建议使用 candidate_list_layout
   horizontal: false
+  candidate_list_layout: linear
   # # stacked | linear | tabled 候选项排列方向(如果希望水平，设置linear)
   # candidate_list_layout: stacked  # stacked | linear | tabled
   
@@ -48,7 +49,7 @@ style:
   remember_size: false
 
   # 外边框 圆角半径
-  corner_radius: 10
+  corner_radius: 4
   # 色彩空间： srgb | display_p3
   color_space: srgb
   
@@ -71,13 +72,13 @@ style:
 
   # 全局字体及大小
   font_face: 'PingFang SC'
-  font_point: 16
+  font_point: 14
   # 序号字体及大小（建议使用「等宽字体」）
   label_font_face: 'Lucida Grande'
-  label_font_point: 16
+  label_font_point: 14
   # 注字体及大小
   comment_font_face: 'PingFang SC'
-  comment_font_point: 14
+  comment_font_point: 1
 
 
 preset_color_schemes:
