@@ -49,7 +49,7 @@ style:
   remember_size: false
 
   # 外边框 圆角半径
-  corner_radius: 4
+  corner_radius: 5
   # 色彩空间： srgb | display_p3
   color_space: srgb
   
